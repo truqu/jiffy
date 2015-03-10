@@ -6,3 +6,5 @@
 .eunit
 deps
 erln8.config
+/.rebar/
+/c_src/
